@@ -56,6 +56,3 @@ Speech input records a five-second microphone sample and sends it to Google's sp
 
 Before redistributing the sign-video clips or model, verify that their original licenses permit it and retain any required attribution.
 
-## License
-
-No license is currently included for the project code. Add a license if you want to grant others permission to reuse it.
